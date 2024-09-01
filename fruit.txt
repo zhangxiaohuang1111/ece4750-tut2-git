@@ -4,8 +4,3 @@ banana
 peach
 lemon
 kiwi
-<<<<<<< HEAD
-kiwi
-date
-=======
->>>>>>> 9d5725f87becd4d280b2dfc027592334b9b4d426
